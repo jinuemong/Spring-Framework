@@ -1,15 +1,25 @@
 # Spring Framework
-  간단한 웹 페이지 관리 시스템 개발
+------------------
 
-# 목적
-  학과 개발 프로젝트
+### Project Name
+   - Spring Project
+   
+### Purpose
+   - 학과 개발 프로젝트
 
-# 기간
-  3개월
+### Subject
+   - 간단한 웹 페이지 관리 시스템 + 서버 개발
+   
+### Main Function
 
-# 개발 환경
-  java, spring framework, xml
+### Additional Function
+ 
+### Period
+   - 3개월
+   
+### Environment
 
-# 내용
-  스프링 프레임워크를 이용한 자바 웹 개발 
-  도서 관리 프로그램 
+   - java, spring framework, xml
+   
+### Personnel 
+   - 2명
